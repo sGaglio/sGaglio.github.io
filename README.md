@@ -1,7 +1,7 @@
 # sGaglio.github.io
 
-Mr. Web Designer <br>
-https://www.youtube.com/@MrWebDesignerAnas/videos
+Complete Responsive PERSONAL PORTFOLIO Website Design Using HTML - CSS - JAVASCRIPT From Scratch
 
-Create A Responsive PERSONAL PORTFOLIO Website Design Using [ HTML CSS JS ] - From Scratch <br>
-https://youtu.be/QtOzUABE1Z4
+https://youtu.be/G2qThIGOcaM
+
+https://drive.google.com/file/d/17wd4CivnNbCHQpqDFihMDq8rnBS3Oy5o/view
